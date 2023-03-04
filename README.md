@@ -17,7 +17,7 @@ It is easy to say "In Machine learning, garbage in to garbage out". But it takes
 I ability to quickly imagine and visualize the working of various models has helped me draw down a use case out of the data or understand what data we need for a particular use case.
 
 In Personal life-
-Very resetless guy who has his friends annoyed by overwhelmed by random plans out of nowhere. Always try to bring everyone together, keep the harmony and bring the feel of a family in the group.
+Very resetless guy who has his friends overwhelmed by random plans out of nowhere. Always try to bring everyone together, keep the harmony and bring the feel of a family in the group.
 
 It is this personality which gives me confidence and motivation to learn and excel any skill, adapt anywhere and be a team player to achieve a common goal.
 
