@@ -21,7 +21,7 @@ Very resetless guy who has his friends overwhelmed by random plans out of nowher
 
 It is this personality which gives me confidence and motivation to learn and excel any skill, adapt anywhere and be a team player to achieve a common goal.
 
-## About career profile:
+## Career profile:
 
 As a Data Scientist with close to 5 years of experience, I have developed a solid understanding of Machine Learning concepts, as well as the Scikit-Learn and Tensorflow ML frameworks. I am also well-versed in advanced statistics, Numpy, and Pandas libraries. These skills enable me to analyze data effectively and develop models that provide actionable insights to businesses.
 
