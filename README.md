@@ -6,7 +6,7 @@
 
 ## About me: Spontaneous, energetic and enthusiastic. Let me explain.
 
-In Machine Learning Space-
+In** Machine Learning** Space-
 If i hear linear regression, immediately i picturize two axes with a straight line in my mind.
 If i come across Logistic regression, I immediately imagine a linear regression model fed to a sigmoid function to get class probabilities.
 Branches of Decision tree is built based on Gini index and if multiple such trees with different configurations are considered in an ensemble, it is random forest.
