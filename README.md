@@ -13,7 +13,7 @@ Branches of Decision tree is built based on Gini index and if multiple such tree
 Hypothesis is directly related to confidence intervals and critical values. 
 Class predictions will lead to metrics from confusion matrices, numerical predictions will lead to MSE/RMSE metrics.
 
-It is easy to say "In Machine learning, garbage in to garbage out". But it takes clear understanding of steps involved at different stages of analysis to realize the answer to 'why'.
+It is easy to say "In Machine learning, garbage in is garbage out". But it takes clear understanding of steps involved at different stages of analysis to realize the answer to 'why'.
 I ability to quickly imagine and visualize the working of various models has helped me draw down a use case out of the data or understand what data we need for a particular use case.
 
 In Personal life-
