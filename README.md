@@ -1,5 +1,5 @@
-## Naveen Lokesh.
-#### Data Scientist
+# Naveen Lokesh.
+## Data Scientist
 
 ![image](https://user-images.githubusercontent.com/33120664/222905640-46cd6cef-57d0-41bb-8a16-eae04f17264d.png)
 
