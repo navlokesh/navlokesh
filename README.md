@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+### Hi there 👋, I am Naveen Lokesh.
+#### Data Scientist
+![Data Scientist](https://www.linkedin.com/in/naveen-lokesh-607b5a124/overlay/background-image/)
+
+Spontaneous, energetic and enthusiastic.
+
+Let me explain
+
+- 🔭 I’m currently working on this page. 
+
+
 
 
 
