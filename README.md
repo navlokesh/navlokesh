@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I am Naveen Lokesh.
 #### Data Scientist
-![Data Scientist](https://www.linkedin.com/in/naveen-lokesh-607b5a124/overlay/background-image/)
+https://media.licdn.com/dms/image/D4E16AQGq3UxclZO_KQ/profile-displaybackgroundimage-shrink_350_1400/0/1677811928643?e=1683158400&v=beta&t=6O6n51BLCa6oacxOIQ67utveywwIWVPTbYLA9_pWWXc
 
 Spontaneous, energetic and enthusiastic.
 
