@@ -36,7 +36,7 @@ I am enthusiastic and eager to adapt to new environments and contribute to a tea
 
 In summary, as a Data Scientist with a passion for data analysis and modeling, I am excited about the prospect of working with others to solve complex problems and deliver insights that drive business success. I am committed to staying up-to-date with the latest trends in data science and continuously improving my skills to stay relevant in this rapidly evolving field.
 
-## Skills:
+### Skills:
 Machine_Learning, Data_Mining, Predictive_Analytics, Classification and Regression ML algorithms (Supervised_Learning), Clustering algorithms (Unsupervised_Learning), Numpy, Pandas, Scikit_Learn, Tensorflow, Keras, Data_Preprocessing, Exploratory_Data_Analysis(EDA), Data_Cleaning, Visualization, etc.
 --> The wordcloud at the start of this page is created by me using python. Above are few from the list of skills I possess.
 
