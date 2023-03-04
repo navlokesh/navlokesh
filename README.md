@@ -40,6 +40,9 @@ In summary, as a Data Scientist with a passion for data analysis and modeling, I
 Machine_Learning, Data_Mining, Predictive_Analytics, Classification and Regression ML algorithms (Supervised_Learning), Clustering algorithms (Unsupervised_Learning), Numpy, Pandas, Scikit_Learn, Tensorflow, Keras, Data_Preprocessing, Exploratory_Data_Analysis(EDA), Data_Cleaning, Visualization, etc.
 --> The wordcloud at the start of this page is created by me using python. Above are few from the list of skills I possess.
 
+## Socials:
+📧: naveenlokesh.ie@gmail.com 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/navlokesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/naveen-lokesh-607b5a124//)  
 
 [![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=navlokesh)](https://github.com/anuraghazra/github-readme-stats)
