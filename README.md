@@ -42,6 +42,7 @@ Machine_Learning, Data_Mining, Predictive_Analytics, Classification and Regressi
 
 ## Socials:
 📧: naveenlokesh.ie@gmail.com 
+LinkedIn: https://www.linkedin.com/in/naveen-lokesh-607b5a124/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/navlokesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/naveen-lokesh-607b5a124//)  
 
